@@ -1,0 +1,8 @@
+D:\Labirint2d\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe
+D:\Labirint2d\Лабиринт\Лабиринт\bin\Debug\Лабиринт.pdb
+D:\Labirint2d\Лабиринт\Лабиринт\obj\Debug\ResolveAssemblyReference.cache
+D:\Labirint2d\Лабиринт\Лабиринт\obj\Debug\Лабиринт.Properties.Resources.resources
+D:\Labirint2d\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csproj.GenerateResource.Cache
+D:\Labirint2d\Лабиринт\Лабиринт\obj\Debug\Лабиринт.exe
+D:\Labirint2d\Лабиринт\Лабиринт\obj\Debug\Лабиринт.pdb
+D:\Labirint2d\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormMenu.resources
